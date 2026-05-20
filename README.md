@@ -18,19 +18,3 @@ Report has multiple section's from where you can manage the data, like :
 - I have also included a Reset button at the top to clear all slicer's.
 - To use it hold CTRL and then click it to reset all the slicer's.
 
-<hr>
-
-## Getting Started
-- Clone this repository to your local machine by using the following command :
-```
-git clone https://github.com/themrityunjaypathak/FinanceReportDashboard.git
-```
-
-<hr>
-
-## Link to the Dataset
-- [Finance Report Dataset](https://github.com/themrityunjaypathak/FinanceReportDashboard/blob/main/financial_data.csv)
-
-<hr>
-
-![1681706976122](https://github.com/TheMrityunjayPathak/FinanceReportDashboard/assets/123563634/3bf0ea5e-1d2f-4062-9c21-d11682c66eb3)
