@@ -9,6 +9,8 @@
 
 <hr>
 
+
+
 ## Sections in the Report
 Report has multiple section's from where you can manage the data, like :
 - Report data can be sliced by Segments, Country and Year to show particular data.
